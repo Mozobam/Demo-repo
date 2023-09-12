@@ -1,3 +1,3 @@
 # DEMO MAIN
 
-some information on demo
+some information
